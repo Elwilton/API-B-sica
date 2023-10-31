@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{908E9B5D-5FB1-46F1-BBF6-6030029B57E1}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppPraticar/Controllers/DevEventsController.cs">
+    <Files>
+      <File FileName="AppPraticar/Controllers/DevEvents.cs" Line="14" Column="19" />
+      <File FileName="AppPraticar/Entitys/DevEvent.cs" Line="36" Column="21" />
+      <File FileName="AppPraticar/Entitys/DevEventSpeaker.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppPraticar" expanded="True">
+            <Node name="AppPraticar" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DevEventsController.cs" selected="True" />
+              </Node>
+              <Node name="Entitys" expanded="True" />
+              <Node name="Persistence" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AppPraticar PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
